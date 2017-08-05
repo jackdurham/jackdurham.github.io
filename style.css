@@ -1,0 +1,26 @@
+h1{
+	text-align: center;
+	font-family: courier;
+	color: white;
+}
+img{
+      margin: 40px 0px 0px 0px;
+      border: 10px solid white;
+      border-radius: 200px;
+}
+body{
+	background-color: darkblue;
+	text-align: center;
+
+}
+ul{
+	text-align: center;
+	color: white;
+	list-style-position: inside;
+}
+p{
+	color: white;
+}
+h2{
+	color: white;
+}
