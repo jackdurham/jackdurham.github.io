@@ -1,1 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
 
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.shading {
+  text-align: center;
+  color: white;
+  font-size: 32px;
+  border: 4px black solid;
+  background-color: rgba(0,0,0,0.5);
+  margin: 0 40px;
+}
+
+.background {
+  background-image: url('https://images.unsplash.com/photo-1465850238811-80ce79442c7a?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=09697a30cbf193461b02dc186f42ef23&auto=format&fit=crop&w=2389&q=80');
+  justify-content: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}

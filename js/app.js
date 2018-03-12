@@ -1,4 +1,3 @@
-console.log(' new loaded');
 $(document).ready(function() {
   $('#fullpage').fullpage();
 });
