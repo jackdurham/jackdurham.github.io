@@ -4,6 +4,10 @@ body {
   font-family: 'Montserrat', sans-serif;
 }
 
+p {
+  font-size: 24px;
+}
+
 .shading {
   text-align: center;
   color: white;
@@ -18,9 +22,23 @@ body {
   justify-content: center;
   background-size: cover;
   background-attachment: fixed;
+  background-position: center;
 }
 
 a {
   text-decoration: none;
   color: inherit;
+}
+
+.icons {
+  font-size: 60px;
+}
+
+.project-img {
+  height: 500px;
+  width: 800px;
+}
+
+.project {
+  margin: auto;
 }
