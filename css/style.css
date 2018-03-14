@@ -35,10 +35,18 @@ a {
 }
 
 .project-img {
-  height: 500px;
-  width: 800px;
+  height: 400px;
+  width: 700px;
 }
 
 .project {
   margin: auto;
+}
+
+.project-title {
+  margin-top: 15px;
+}
+
+.info {
+  font-size: 20px;
 }
