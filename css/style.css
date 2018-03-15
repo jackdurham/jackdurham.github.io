@@ -43,10 +43,18 @@ a {
   margin: auto;
 }
 
+.slide {
+  overflow: scroll;
+}
+
 .project-title {
   margin: auto;
 }
 
 .info {
   font-size: 20px;
+}
+
+.slide {
+
 }
