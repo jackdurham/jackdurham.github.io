@@ -1,7 +1,3 @@
-$(document).ready(function() {
-  $('#fullpage').fullpage();
-});
-
 function init() {
 
   $(document).ready(function(){
