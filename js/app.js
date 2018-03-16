@@ -4,7 +4,7 @@ function init() {
 
 
     $('#fullpage').fullpage({
-      anchors: ['about', 'projects', 'skills', 'contact']
+      // anchors: ['about', 'projects', 'skills', 'contact']
     });
 
 
